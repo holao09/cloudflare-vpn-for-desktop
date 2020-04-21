@@ -5,7 +5,7 @@ import random
 import string
 import time
 
-referrer = sys.argv[1]
+referrer = input("ID:")
 timesToLoop = 20
 retryTimes = 5
 
